@@ -2,11 +2,11 @@
 
 ## 2023 (2566)
 
-> CCNAv7 Introduction to Networks | PDF | [View]()
+> CCNAv7 Introduction to Networks | PDF | [View](https://github.com/AekarinOngart/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
 
-> CCNAv7 Enterprise Networking, Security, and Automation | PDF | [View]()
+> CCNAv7 Enterprise Networking, Security, and Automation | PDF | [View](https://github.com/AekarinOngart/Certificates/blob/main/CCNAv7%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf)
 
-> CCNAv7 Switching, Routing, and Wireless Essentials | PDF | [View]()
+> CCNAv7 Switching, Routing, and Wireless Essentials | PDF | [View](https://github.com/AekarinOngart/Certificates/blob/main/CCNAv7%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
 
 ## 2022 (2565)
 
